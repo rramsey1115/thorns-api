@@ -1,0 +1,486 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "color": "red",
+      "species": "rose",
+      "pic": "https://www.brecks.com/images/350/65398A.jpg",
+      "price": 3.0
+    },
+    {
+      "id": 2,
+      "color": "pink",
+      "species": "carnation",
+      "pic": "https://seedvilleusa.com/cdn/shop/products/il_fullxfull.1225209171_jm6z.jpg?v=1662692557",
+      "price": 2.0
+    },
+    {
+      "id": 3,
+      "color": "yellow",
+      "species": "mum",
+      "pic": "https://www.lsuagcenter.com/~/media/system/2/6/d/c/26dc664bf972774749f8bd5f24abd257/yellow%20mum%20bloomsjpg.jpg?h=3024&la=en&w=4032",
+      "price": 2.1
+    },
+    {
+      "id": 4,
+      "color": "yellow",
+      "species": "coneflower",
+      "pic": "https://h2.commercev3.net/cdn.brecks.com/images/800/80064.jpg",
+      "price": 2.5
+    },
+    {
+      "id": 5,
+      "color": "red",
+      "species": "petunia",
+      "pic": "https://m.media-amazon.com/images/I/71mhbFt56RL.jpg",
+      "price": 2.5
+    },
+    {
+      "id": 6,
+      "color": "yellow",
+      "species": "marigold",
+      "pic": "https://nurtureplant.in/wp-content/uploads/2019/09/marigold1-1.jpg",
+      "price": 2.6
+    },
+    {
+      "id": 7,
+      "color": "blue",
+      "species": "hydrangea",
+      "pic": "https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280x1280/products/844/4219/Large_Nikko_Blue_Hydrangea_Shrub_Blooming__96679.1579314828.jpg?c=2",
+      "price": 2.2
+    },
+    {
+      "id": 8,
+      "color": "blue",
+      "species": "poppy",
+      "pic": "https://i.pinimg.com/originals/c2/8d/e7/c28de7d9f5bdbdc401c7907c18c152b8.jpg",
+      "price": 3.0
+    },
+    {
+      "id": 9,
+      "color": "purple",
+      "species": "aster",
+      "pic": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/01/aster-flowers-1024x683.jpg?x96810",
+      "price": 3.1
+    },
+    {
+      "id": 10,
+      "color": "red",
+      "species": "rocktrumpet",
+      "pic": "https://nanasbloomers.com/wp-content/uploads/2017/11/deluxe-mandevilla-giant-red-emperor.jpg",
+      "price": 3.0
+    },
+    {
+      "id": 11,
+      "color": "orange",
+      "species": "begonia",
+      "pic": "https://grangettos.com/cdn/shop/articles/shutterstock_1992693932_1500x.jpg?v=1627419291",
+      "price": 2.6
+    },
+    {
+      "id": 12,
+      "color": "pink",
+      "species": "calibrachoa",
+      "pic": "https://plantmaster.com/PlantMaster/FullSize/26728a.jpg?v=20230619-010242",
+      "price": 2.9
+    },
+    {
+      "id": 13,
+      "color": "orange",
+      "species": "calendula",
+      "pic": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/calendula_lady_godiva_orange_closeup.jpg",
+      "price": 2.7
+    },
+    {
+      "id": 14,
+      "color": "white",
+      "species": "rose",
+      "pic": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/rosa_reminiscent_crema_p1072054.jpg",
+      "price": 3.1
+    },
+    {
+      "id": 15,
+      "color": "white",
+      "species": "gardenia",
+      "pic": "https://plantsbymail.com/wp-content/uploads/2023/03/Gardenia_Fool_Proof_20180820X21A1012_MAIN.jpg",
+      "price": 2.0
+    }
+  ],
+  "nurseryInventory": [
+    {
+      "id": 1,
+      "flowerId": 1,
+      "nurseryId": 1,
+      "amount": 30
+    },
+    {
+      "id": 2,
+      "flowerId": 2,
+      "nurseryId": 2,
+      "amount": 25
+    },
+    {
+      "id": 3,
+      "flowerId": 3,
+      "nurseryId": 3,
+      "amount": 35
+    },
+    {
+      "id": 4,
+      "flowerId": 4,
+      "nurseryId": 4,
+      "amount": 28
+    },
+    {
+      "id": 5,
+      "flowerId": 5,
+      "nurseryId": 5,
+      "amount": 40
+    },
+    {
+      "id": 6,
+      "flowerId": 6,
+      "nurseryId": 1,
+      "amount": 32
+    },
+    {
+      "id": 7,
+      "flowerId": 7,
+      "nurseryId": 2,
+      "amount": 29
+    },
+    {
+      "id": 8,
+      "flowerId": 8,
+      "nurseryId": 3,
+      "amount": 38
+    },
+    {
+      "id": 9,
+      "flowerId": 9,
+      "nurseryId": 4,
+      "amount": 27
+    },
+    {
+      "id": 10,
+      "flowerId": 10,
+      "nurseryId": 5,
+      "amount": 42
+    },
+    {
+        "id": 11,
+        "flowerId": 11,
+        "nurseryId": 1,
+        "amount": 31
+      },
+      {
+        "id": 12,
+        "flowerId": 12,
+        "nurseryId": 2,
+        "amount": 26
+      },
+      {
+        "id": 13,
+        "flowerId": 13,
+        "nurseryId": 3,
+        "amount": 36
+      },
+      {
+        "id": 14,
+        "flowerId": 14,
+        "nurseryId": 4,
+        "amount": 29
+      },
+      {
+        "id": 15,
+        "flowerId": 15,
+        "nurseryId": 5,
+        "amount": 43
+      },
+      {
+        "id": 16,
+        "flowerId": 1,
+        "nurseryId": 2,
+        "amount": 33
+      },
+      {
+        "id": 17,
+        "flowerId": 2,
+        "nurseryId": 3,
+        "amount": 28
+      },
+      {
+        "id": 18,
+        "flowerId": 3,
+        "nurseryId": 4,
+        "amount": 37
+      },
+      {
+        "id": 19,
+        "flowerId": 4,
+        "nurseryId": 5,
+        "amount": 30
+      },
+      {
+        "id": 20,
+        "flowerId": 5,
+        "nurseryId": 1,
+        "amount": 44
+      }
+  ],
+  "nurseries": [
+    {
+      "id": 1,
+      "name": "Lily Lane Flowers"
+    },
+    {
+      "id": 2,
+      "name": "Blossom Bliss Nuresery"
+    },
+    {
+      "id": 3,
+      "name": "Rainbow Blooms Nursery"
+    },
+    {
+      "id": 4,
+      "name": "Floral Fantasia Garden Center"
+    },
+    {
+      "id": 5,
+      "name": "Flower Fandango Nursery"
+    }
+  ],
+  "distributorOrders": [],
+  "distributors": [
+    {
+      "id": 1,
+      "name": "Petal Express Distributors",
+      "markup": 0.15
+    },
+    {
+      "id": 2,
+      "name": "Daisy Dreamline Freight",
+      "markup": 0.2
+    },
+    {
+      "id": 3,
+      "name": "Floral Fusion Logistics",
+      "markup": 0.13
+    },
+    {
+      "id": 4,
+      "name": "Blossom Boulevard Distributors",
+      "markup": 0.16
+    },
+    {
+      "id": 5,
+      "name": "BloomWave Flower Distribution Co.",
+      "markup": 0.18
+    }
+  ],
+
+  "retailOrders": [
+    {
+      "id": 1,
+      "retailerId": 1,
+      "distributorId": 1,
+      "flowerId": 1,
+      "amount": 20
+    },
+    {
+      "id": 2,
+      "retailerId": 2,
+      "distributorId": 2,
+      "flowerId": 2,
+      "amount": 15
+    },
+    {
+      "id": 3,
+      "retailerId": 3,
+      "distributorId": 3,
+      "flowerId": 3,
+      "amount": 25
+    },
+    {
+      "id": 4,
+      "retailerId": 4,
+      "distributorId": 4,
+      "flowerId": 4,
+      "amount": 18
+    },
+    {
+      "id": 5,
+      "retailerId": 5,
+      "distributorId": 5,
+      "flowerId": 5,
+      "amount": 22
+    },
+    {
+      "id": 6,
+      "retailerId": 1,
+      "distributorId": 2,
+      "flowerId": 6,
+      "amount": 20
+    },
+    {
+      "id": 7,
+      "retailerId": 2,
+      "distributorId": 3,
+      "flowerId": 7,
+      "amount": 15
+    },
+    {
+      "id": 8,
+      "retailerId": 3,
+      "distributorId": 4,
+      "flowerId": 8,
+      "amount": 25
+    },
+    {
+      "id": 9,
+      "retailerId": 4,
+      "distributorId": 5,
+      "flowerId": 9,
+      "amount": 18
+    },
+    {
+      "id": 10,
+      "retailerId": 5,
+      "distributorId": 1,
+      "flowerId": 10,
+      "amount": 22
+    },
+    {
+      "id": 11,
+      "retailerId": 6,
+      "distributorId": 3,
+      "flowerId": 11,
+      "amount": 19
+    },
+    {
+      "id": 12,
+      "retailerId": 7,
+      "distributorId": 4,
+      "flowerId": 12,
+      "amount": 23
+    },
+    {
+      "id": 13,
+      "retailerId": 8,
+      "distributorId": 5,
+      "flowerId": 13,
+      "amount": 16
+    },
+    {
+      "id": 14,
+      "retailerId": 9,
+      "distributorId": 1,
+      "flowerId": 14,
+      "amount": 21
+    },
+    {
+      "id": 15,
+      "retailerId": 10,
+      "distributorId": 2,
+      "flowerId": 15,
+      "amount": 24
+    },
+    {
+      "id": 16,
+      "retailerId": 1,
+      "distributorId": 4,
+      "flowerId": 1,
+      "amount": 17
+    },
+    {
+      "id": 17,
+      "retailerId": 2,
+      "distributorId": 5,
+      "flowerId": 2,
+      "amount": 20
+    },
+    {
+      "id": 18,
+      "retailerId": 3,
+      "distributorId": 1,
+      "flowerId": 3,
+      "amount": 22
+    },
+    {
+      "id": 19,
+      "retailerId": 4,
+      "distributorId": 2,
+      "flowerId": 4,
+      "amount": 18
+    },
+    {
+      "id": 20,
+      "retailerId": 5,
+      "distributorId": 3,
+      "flowerId": 5,
+      "amount": 25
+    }
+  ],
+  "retailers": [
+    {
+      "id": 1,
+      "name": "Publix",
+      "addresss": "6208 Long Hollow Pike",
+      "markup": 0.2
+    },
+    {
+      "id": 2,
+      "name": "Trader Joe's",
+      "addresss": "6465 Thompson Lane",
+      "markup": 0.23
+    },
+    {
+      "id": 3,
+      "name": "Kroger",
+      "addresss": "112 Murfreesboro Road",
+      "markup": 0.2
+    },
+    {
+      "id": 4,
+      "name": "ALDI",
+      "addresss": "9902 Jefferson Avenue",
+      "markup": 0.15
+    },
+    {
+      "id": 5,
+      "name": "Towne & Country Flowers",
+      "addresss": "112 Main Street",
+      "markup": 0.25
+    },
+    {
+      "id": 6,
+      "name": "Walmart",
+      "addresss": "1000 Supercenter Way",
+      "markup": 0.18
+    },
+    {
+      "id": 7,
+      "name": "Reba's Flower Shopw",
+      "addresss": "409 Broad Street",
+      "markup": 0.21
+    },
+    {
+      "id": 8,
+      "name": "Food Lion",
+      "addresss": "550 Turner Pike",
+      "markup": 0.2
+    },
+    {
+      "id": 9,
+      "name": "Lowe's",
+      "addresss": "6892 Spring Street",
+      "markup": 0.22
+    },
+    {
+      "id": 10,
+      "name": "Home Depot",
+      "addresss": "17001 Gallatin Road",
+      "markup": 0.19
+    }
+  ]
+}
