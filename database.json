@@ -2,108 +2,108 @@
   "flowers": [
     {
       "id": 1,
-      "color": "red",
-      "species": "rose",
+      "color": "Red",
+      "species": "Rose",
       "pic": "https://www.brecks.com/images/350/65398A.jpg",
-      "price": 3.0
+      "price": 3
     },
     {
       "id": 2,
-      "color": "pink",
-      "species": "carnation",
+      "color": "Pink",
+      "species": "Carnation",
       "pic": "https://seedvilleusa.com/cdn/shop/products/il_fullxfull.1225209171_jm6z.jpg?v=1662692557",
-      "price": 2.0
+      "price": 2
     },
     {
       "id": 3,
-      "color": "yellow",
-      "species": "mum",
+      "color": "Yellow",
+      "species": "Mum",
       "pic": "https://www.lsuagcenter.com/~/media/system/2/6/d/c/26dc664bf972774749f8bd5f24abd257/yellow%20mum%20bloomsjpg.jpg?h=3024&la=en&w=4032",
-      "price": 2.1
+      "price": 1
     },
     {
       "id": 4,
-      "color": "yellow",
-      "species": "coneflower",
+      "color": "Yellow",
+      "species": "Coneflower",
       "pic": "https://h2.commercev3.net/cdn.brecks.com/images/800/80064.jpg",
-      "price": 2.5
+      "price": 2
     },
     {
       "id": 5,
-      "color": "red",
+      "color": "Red",
       "species": "petunia",
       "pic": "https://m.media-amazon.com/images/I/71mhbFt56RL.jpg",
-      "price": 2.5
+      "price": 1
     },
     {
       "id": 6,
-      "color": "yellow",
-      "species": "marigold",
+      "color": "Yellow",
+      "species": "Marigold",
       "pic": "https://nurtureplant.in/wp-content/uploads/2019/09/marigold1-1.jpg",
-      "price": 2.6
+      "price": 1
     },
     {
       "id": 7,
-      "color": "blue",
-      "species": "hydrangea",
+      "color": "Blue",
+      "species": "Hydrangea",
       "pic": "https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280x1280/products/844/4219/Large_Nikko_Blue_Hydrangea_Shrub_Blooming__96679.1579314828.jpg?c=2",
-      "price": 2.2
+      "price": 1
     },
     {
       "id": 8,
-      "color": "blue",
-      "species": "poppy",
+      "color": "Blue",
+      "species": "Poppy",
       "pic": "https://i.pinimg.com/originals/c2/8d/e7/c28de7d9f5bdbdc401c7907c18c152b8.jpg",
-      "price": 3.0
+      "price": 3
     },
     {
       "id": 9,
-      "color": "purple",
-      "species": "aster",
+      "color": "Purple",
+      "species": "Aster",
       "pic": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/01/aster-flowers-1024x683.jpg?x96810",
-      "price": 3.1
+      "price": 3
     },
     {
       "id": 10,
-      "color": "red",
-      "species": "rocktrumpet",
+      "color": "Red",
+      "species": "Rocktrumpet",
       "pic": "https://nanasbloomers.com/wp-content/uploads/2017/11/deluxe-mandevilla-giant-red-emperor.jpg",
-      "price": 3.0
+      "price": 3
     },
     {
       "id": 11,
-      "color": "orange",
-      "species": "begonia",
+      "color": "Orange",
+      "species": "Begonia",
       "pic": "https://grangettos.com/cdn/shop/articles/shutterstock_1992693932_1500x.jpg?v=1627419291",
-      "price": 2.6
+      "price": 2
     },
     {
       "id": 12,
-      "color": "pink",
-      "species": "calibrachoa",
+      "color": "Pink",
+      "species": "Calibrachoa",
       "pic": "https://plantmaster.com/PlantMaster/FullSize/26728a.jpg?v=20230619-010242",
-      "price": 2.9
+      "price": 2
     },
     {
       "id": 13,
-      "color": "orange",
-      "species": "calendula",
+      "color": "Orange",
+      "species": "Calendula",
       "pic": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/calendula_lady_godiva_orange_closeup.jpg",
-      "price": 2.7
+      "price": 2
     },
     {
       "id": 14,
-      "color": "white",
-      "species": "rose",
+      "color": "White",
+      "species": "Rose",
       "pic": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/rosa_reminiscent_crema_p1072054.jpg",
-      "price": 3.1
+      "price": 3
     },
     {
       "id": 15,
-      "color": "white",
-      "species": "gardenia",
+      "color": "White",
+      "species": "Gardenia",
       "pic": "https://plantsbymail.com/wp-content/uploads/2023/03/Gardenia_Fool_Proof_20180820X21A1012_MAIN.jpg",
-      "price": 2.0
+      "price": 2
     }
   ],
   "nurseryInventory": [
@@ -235,7 +235,7 @@
     },
     {
       "id": 2,
-      "name": "Blossom Bliss Nuresery"
+      "name": "Blossom Bliss Nursery"
     },
     {
       "id": 3,
