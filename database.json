@@ -1,4 +1,48 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "password": "test",
+      "name": "Test Testerson",
+      "businessName": "Test Business"
+    },
+    {
+      "id": 2,
+      "email": "suzyblue@yahoo.net",
+      "password": "suzy",
+      "name": "Suzanne Watson",
+      "businessName": "Awesome Wedding Planner"
+    },
+    {
+      "id": 3,
+      "email": "bobbyray@fordmotorsports.org",
+      "password": "bobby",
+      "name": "Robert Ray Anderson",
+      "businessName": "NASCAR Wedding Events"
+    },
+    {
+      "id": 4,
+      "email": "lacyreed@weddinghelp.org",
+      "password": "lacy",
+      "name": "Lacy Anne Reed",
+      "businessName": "EmergencyWeddingHelp.com"
+    },
+    {
+      "id": 5,
+      "email": "nicolebarbie@comcast.eu",
+      "password": "nicole",
+      "name": "Nicole Blick",
+      "businessName": "Euro Destination Weddings"
+    }
+  ],
+  "cart": [
+    {
+      "cutomerId": 1,
+      "retailerId":1,
+      "flowerId": 4
+    }
+  ],
   "flowers": [
     {
       "id": 1,
