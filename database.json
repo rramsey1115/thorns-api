@@ -34,13 +34,27 @@
       "password": "nicole",
       "name": "Nicole Blick",
       "businessName": "Euro Destination Weddings"
+    },
+    {
+      "id": 6,
+      "email": "customer@test.com",
+      "password": "customer",
+      "name": "Customer Test",
+      "businessName": "Test Customer Business Name"
+    },
+    {
+      "email": "createdTest@test.com",
+      "password": "create",
+      "name": "Created User Test",
+      "businessName": "Created Business Test",
+      "id": 7
     }
   ],
   "cart": [
     {
       "id": 1,
       "cutomerId": 1,
-      "retailerId":1,
+      "retailerId": 1,
       "flowerId": 4
     }
   ],
@@ -437,7 +451,6 @@
       "amount": 46
     }
   ],
-
   "distributors": [
     {
       "id": 1,
@@ -465,7 +478,6 @@
       "markup": 0.18
     }
   ],
-
   "retailOrders": [
     {
       "id": 1,
