@@ -27,7 +27,8 @@
       "id": 1,
       "cutomerId": 1,
       "retailerId": 1,
-      "flowerId": 4
+      "flowerId": 4,
+      "amount": 2
     }
   ],
   "flowers": [
