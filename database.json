@@ -9,34 +9,6 @@
     },
     {
       "id": 2,
-      "email": "suzyblue@yahoo.net",
-      "password": "suzy",
-      "name": "Suzanne Watson",
-      "businessName": "Awesome Wedding Planner"
-    },
-    {
-      "id": 3,
-      "email": "bobbyray@fordmotorsports.org",
-      "password": "bobby",
-      "name": "Robert Ray Anderson",
-      "businessName": "NASCAR Wedding Events"
-    },
-    {
-      "id": 4,
-      "email": "lacyreed@weddinghelp.org",
-      "password": "lacy",
-      "name": "Lacy Anne Reed",
-      "businessName": "EmergencyWeddingHelp.com"
-    },
-    {
-      "id": 5,
-      "email": "nicolebarbie@comcast.eu",
-      "password": "nicole",
-      "name": "Nicole Blick",
-      "businessName": "Euro Destination Weddings"
-    },
-    {
-      "id": 6,
       "email": "customer@test.com",
       "password": "customer",
       "name": "Customer Test",
@@ -47,7 +19,7 @@
       "password": "create",
       "name": "Created User Test",
       "businessName": "Created Business Test",
-      "id": 7
+      "id": 3
     }
   ],
   "cart": [
@@ -488,136 +460,143 @@
     },
     {
       "id": 2,
-      "retailerId": 2,
+      "retailerId": 1,
       "distributorId": 2,
       "flowerId": 2,
       "amount": 15
     },
     {
       "id": 3,
-      "retailerId": 3,
+      "retailerId": 1,
       "distributorId": 3,
-      "flowerId": 3,
+      "flowerId": 9,
       "amount": 25
     },
     {
       "id": 4,
-      "retailerId": 4,
+      "retailerId": 2,
       "distributorId": 4,
       "flowerId": 4,
       "amount": 18
     },
     {
       "id": 5,
-      "retailerId": 5,
+      "retailerId": 2,
       "distributorId": 5,
-      "flowerId": 5,
+      "flowerId": 11,
       "amount": 22
     },
     {
       "id": 6,
-      "retailerId": 1,
+      "retailerId": 2,
       "distributorId": 2,
-      "flowerId": 6,
+      "flowerId": 13,
       "amount": 20
     },
     {
       "id": 7,
-      "retailerId": 2,
+      "retailerId": 3,
       "distributorId": 3,
       "flowerId": 7,
-      "amount": 15
+      "amount": 10
     },
     {
       "id": 8,
       "retailerId": 3,
       "distributorId": 4,
       "flowerId": 8,
-      "amount": 25
-    },
-    {
-      "id": 9,
-      "retailerId": 4,
-      "distributorId": 5,
-      "flowerId": 9,
-      "amount": 18
-    },
-    {
-      "id": 10,
-      "retailerId": 5,
-      "distributorId": 1,
-      "flowerId": 10,
-      "amount": 22
-    },
-    {
-      "id": 11,
-      "retailerId": 6,
-      "distributorId": 3,
-      "flowerId": 11,
-      "amount": 19
-    },
-    {
-      "id": 12,
-      "retailerId": 7,
-      "distributorId": 4,
-      "flowerId": 12,
-      "amount": 23
-    },
-    {
-      "id": 13,
-      "retailerId": 8,
-      "distributorId": 5,
-      "flowerId": 13,
-      "amount": 16
-    },
-    {
-      "id": 14,
-      "retailerId": 9,
-      "distributorId": 1,
-      "flowerId": 14,
-      "amount": 21
-    },
-    {
-      "id": 15,
-      "retailerId": 10,
-      "distributorId": 2,
-      "flowerId": 15,
       "amount": 24
     },
     {
+      "id": 9,
+      "retailerId": 3,
+      "distributorId": 5,
+      "flowerId": 9,
+      "amount": 16
+    },
+    {
+      "id": 10,
+      "retailerId": 4,
+      "distributorId": 1,
+      "flowerId": 10,
+      "amount": 13
+    },
+    {
+      "id": 11,
+      "retailerId": 4,
+      "distributorId": 3,
+      "flowerId": 11,
+      "amount": 12
+    },
+    {
+      "id": 12,
+      "retailerId": 4,
+      "distributorId": 4,
+      "flowerId": 13,
+      "amount": 20
+    },
+    {
+      "id": 13,
+      "retailerId": 5,
+      "distributorId": 2,
+      "flowerId": 13,
+      "amount": 12
+    },
+    {
+      "id": 14,
+      "retailerId": 5,
+      "distributorId": 1,
+      "flowerId": 14,
+      "amount": 14
+    },
+    {
+      "id": 15,
+      "retailerId": 5,
+      "distributorId": 5,
+      "flowerId": 6,
+      "amount": 10
+    },
+    {
       "id": 16,
-      "retailerId": 1,
+      "retailerId": 6,
       "distributorId": 4,
       "flowerId": 1,
       "amount": 17
     },
     {
       "id": 17,
-      "retailerId": 2,
+      "retailerId": 6,
       "distributorId": 5,
-      "flowerId": 2,
+      "flowerId": 11,
       "amount": 20
     },
     {
       "id": 18,
-      "retailerId": 3,
+      "retailerId": 6,
       "distributorId": 1,
-      "flowerId": 3,
+      "flowerId": 9,
       "amount": 22
     },
     {
       "id": 19,
-      "retailerId": 4,
-      "distributorId": 2,
+      "retailerId": 7,
+      "distributorId": 4,
       "flowerId": 4,
-      "amount": 18
+      "amount": 15
     },
     {
       "id": 20,
-      "retailerId": 5,
+      "retailerId": 7,
       "distributorId": 3,
+      "flowerId": 13,
+      "amount": 20
+    },
+    {
+      "id": 21,
+      "retailerId": 7,
+      "distributorId": 2,
       "flowerId": 5,
-      "amount": 25
+      "amount": 10
     }
   ],
   "retailers": [
@@ -662,24 +641,6 @@
       "name": "Reba's Flower Shopw",
       "addresss": "409 Broad Street",
       "markup": 0.21
-    },
-    {
-      "id": 8,
-      "name": "Food Lion",
-      "addresss": "550 Turner Pike",
-      "markup": 0.2
-    },
-    {
-      "id": 9,
-      "name": "Lowe's",
-      "addresss": "6892 Spring Street",
-      "markup": 0.22
-    },
-    {
-      "id": 10,
-      "name": "Home Depot",
-      "addresss": "17001 Gallatin Road",
-      "markup": 0.19
     }
   ]
 }
