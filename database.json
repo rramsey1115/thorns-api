@@ -29,6 +29,13 @@
       "retailerId": 1,
       "flowerId": 4,
       "amount": 2
+    },
+    {
+      "customerId": 1,
+      "retailerId": 1,
+      "flowerId": 1,
+      "amount": 5,
+      "id": 2
     }
   ],
   "flowers": [
