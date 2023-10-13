@@ -25,7 +25,7 @@
   "cart": [
     {
       "id": 1,
-      "cutomerId": 1,
+      "customerId": 1,
       "retailerId": 1,
       "flowerId": 4,
       "amount": 2
@@ -36,6 +36,62 @@
       "flowerId": 1,
       "amount": 5,
       "id": 2
+    },
+    {
+      "customerId": 2,
+      "retailerId": 1,
+      "flowerId": 1,
+      "amount": 1,
+      "id": 3
+    },
+    {
+      "customerId": 2,
+      "retailerId": 1,
+      "flowerId": 2,
+      "amount": 5,
+      "id": 4
+    },
+    {
+      "customerId": 2,
+      "retailerId": 1,
+      "flowerId": 9,
+      "amount": 8,
+      "id": 5
+    },
+    {
+      "customerId": 2,
+      "retailerId": 3,
+      "flowerId": 8,
+      "amount": 2,
+      "id": 6
+    },
+    {
+      "customerId": 2,
+      "retailerId": 3,
+      "flowerId": 9,
+      "amount": 5,
+      "id": 7
+    },
+    {
+      "customerId": 2,
+      "retailerId": 5,
+      "flowerId": 13,
+      "amount": 7,
+      "id": 8
+    },
+    {
+      "customerId": 2,
+      "retailerId": 5,
+      "flowerId": 6,
+      "amount": 9,
+      "id": 9
+    },
+    {
+      "customerId": 2,
+      "retailerId": 7,
+      "flowerId": 4,
+      "amount": 2,
+      "id": 10
     }
   ],
   "flowers": [
